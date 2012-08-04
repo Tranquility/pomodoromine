@@ -1,0 +1,19 @@
+# In repository we don't need to have:
+# Compiled object files
+*.o
+
+*.pro.user*
+
+# Generated MOC, resource and UI files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+Makefile
+*.txt
+
+#Built windows .exe and linux binaries
+# NOTE: PROJECT is a your project's name, analog of PROJECT.exe in Linux
+*.exe
+*.dll
+pomodoromine

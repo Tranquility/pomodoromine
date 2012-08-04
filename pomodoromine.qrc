@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/tick.wav</file>
+        <file>sound/rang.mp3</file>
+        <file>images/pomodoromine.png</file>
+        <file>images/progress-0.png</file>
+        <file>images/progress-10.png</file>
+        <file>images/progress-20.png</file>
+        <file>images/progress-30.png</file>
+        <file>images/progress-40.png</file>
+        <file>images/progress-60.png</file>
+        <file>images/progress-70.png</file>
+        <file>images/progress-80.png</file>
+        <file>images/progress-90.png</file>
+        <file>images/break.png</file>
+        <file>images/progress-50.png</file>
+    </qresource>
+</RCC>
